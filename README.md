@@ -41,7 +41,6 @@
 
 - 🌱 I’m currently learning about Spectral Graph Neural Networks (GNN)  
 - 💞️ I’m looking to collaborate on topics involving machine learning, artificial neural networks, convex optimization, linear and multilinear algebra as well as mathematical and numerical modeling in general
-- 📫 How to reach me in fpmarinho@alu.ufc.br
 
 <!---
 Felipe-Marinho94/Felipe-Marinho94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

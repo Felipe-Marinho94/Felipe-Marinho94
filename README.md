@@ -35,7 +35,7 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Felipe-Marinho94/Felipe-Marinho94/blob/output/github-contribution-grid-snake.svg)
 
 
 - 👋 Hi, I’m @Felipe-Marinho94

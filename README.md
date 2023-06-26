@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="giphy.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">

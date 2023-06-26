@@ -28,11 +28,9 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.researchgate.net/profile/Felipe-Marinho-3">
-      <img width="35" src="youtube.svg">
+      <img width="35" src="ResearchGate_icon_SVG.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
+    
 </div>
   
 ![Snake animation](https://github.com/Felipe-Marinho94/Felipe-Marinho94/blob/output/github-contribution-grid-snake.svg)

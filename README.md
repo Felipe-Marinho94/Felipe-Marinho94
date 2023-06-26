@@ -28,7 +28,7 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.researchgate.net/profile/Felipe-Marinho-3">
-      <img width="35" src="ResearchGate_icon_SVG.svg">
+      <img width="25" src="ResearchGate_icon_SVG.svg">
     </a>
     
 </div>
